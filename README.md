@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Abhishek-green)](https://abhishekjain678.github.io/Abhishek-profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/21156764/abhishek-jain)
 
-As a Full Stack Developer aspiring to take the next step in my career, I have chosen to enroll in the Full Stack Development course offered by Geeks for Geeks. Led by industry experts, this comprehensive course will provide me with hands-on experience in both front-end and back-end development, and equip me with the skills and knowledge required to build complex web applications.
+As a Full Stack Developer aspiring to take the next step in my career, I have chosen to enroll in the Full Stack Development course offered by Letsupgrade. Led by industry experts, this comprehensive course will provide me with hands-on experience in both front-end and back-end development, and equip me with the skills and knowledge required to build complex web applications.
 
 Throughout the course, I will learn how to use various programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and MongoDB, to develop responsive and user-friendly interfaces and implement efficient server-side functionality. I will also gain a deep understanding of working with databases, creating RESTful APIs, and integrating different services into web applications.
 
