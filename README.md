@@ -9,7 +9,7 @@ Throughout the course, I will learn how to use various programming languages and
 
 In addition to learning technical skills, the course will also teach me how to work collaboratively with team members and stakeholders, and effectively communicate technical concepts to non-technical audiences. I will have access to a range of development tools and technologies, including Git, GitHub, VS Code, and AWS, which will help me develop my skills and gain practical experience.
 
-By completing the Full Stack Development course with Edureka, I am confident that I will be well-prepared to take on challenging projects and advance my career as a Full Stack Developer. I am excited to learn from industry experts and join a community of like-minded individuals who share my passion for technology and innovation.
+By completing the Full Stack Development course with LetsUpgrade, I am confident that I will be well-prepared to take on challenging projects and advance my career as a Full Stack Developer. I am excited to learn from industry experts and join a community of like-minded individuals who share my passion for technology and innovation.
 
 
 
